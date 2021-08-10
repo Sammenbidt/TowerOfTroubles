@@ -1,0 +1,368 @@
+
+menu_ui.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Black
+  rotate: false
+  xy: 471, 417
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+BlueButtonDown
+  rotate: false
+  xy: 143, 164
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+BlueButtonUp
+  rotate: false
+  xy: 697, 767
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+BluePanel
+  rotate: false
+  xy: 625, 695
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+BlueSliderUp
+  rotate: false
+  xy: 767, 821
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+DeletePressed
+  rotate: false
+  xy: 299, 281
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+DeleteUnPressed
+  rotate: false
+  xy: 483, 443
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+DisabledButtonUp
+  rotate: false
+  xy: 215, 308
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+GreenButtonDown
+  rotate: false
+  xy: 839, 975
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+GreenButtonUp
+  rotate: false
+  xy: 767, 903
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+GreenPanel
+  rotate: false
+  xy: 555, 575
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+GreenSliderUp
+  rotate: false
+  xy: 809, 901
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+GreyPanel
+  rotate: false
+  xy: 257, 273
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+GreySliderEnd
+  rotate: false
+  xy: 52, 52
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+GreySliderHorizontal
+  rotate: false
+  xy: 767, 1017
+  size: 190, 4
+  orig: 190, 4
+  offset: 0, 0
+  index: -1
+GreySliderUp
+  rotate: false
+  xy: 667, 693
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+MediumSquareGlass
+  rotate: false
+  xy: 483, 881
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+MediumSquareMetal
+  rotate: false
+  xy: 625, 881
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+MediumSquareStone
+  rotate: false
+  xy: 1, 208
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+MediumSquareWood
+  rotate: false
+  xy: 483, 739
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+RectangleGlass
+  rotate: false
+  xy: 625, 809
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+RectangleMetal
+  rotate: false
+  xy: 1, 136
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+RectangleStone
+  rotate: false
+  xy: 483, 667
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+RectangleWood
+  rotate: false
+  xy: 257, 357
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+RedPanel
+  rotate: false
+  xy: 483, 481
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+RedSliderUp
+  rotate: false
+  xy: 697, 723
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+SquareGlass
+  rotate: false
+  xy: 1, 64
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+SquareMetal
+  rotate: false
+  xy: 143, 206
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+SquareStone
+  rotate: false
+  xy: 483, 595
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+SquareWood
+  rotate: false
+  xy: 625, 737
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+TriangleGlass
+  rotate: false
+  xy: 767, 945
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+TriangleMetal
+  rotate: false
+  xy: 483, 523
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+TriangleStone
+  rotate: false
+  xy: 399, 357
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+TriangleWood
+  rotate: false
+  xy: 143, 278
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+White
+  rotate: false
+  xy: 1, 1
+  size: 10, 10
+  orig: 10, 10
+  offset: 0, 0
+  index: -1
+YellowPanel
+  rotate: false
+  xy: 257, 315
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+YellowSliderUp
+  rotate: false
+  xy: 839, 931
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+blue_circle
+  rotate: false
+  xy: 215, 228
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+cursor_black
+  rotate: false
+  xy: 73, 79
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 1, 350
+  size: 254, 77
+  orig: 254, 77
+  offset: 0, 0
+  index: -1
+dropzone
+  rotate: false
+  xy: 1, 429
+  size: 480, 592
+  split: 31, 31, 31, 31
+  pad: 29, 31, 31, 31
+  orig: 480, 592
+  offset: 0, 0
+  index: -1
+green_circle
+  rotate: false
+  xy: 881, 979
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+grey_circle
+  rotate: false
+  xy: 555, 537
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+inventory_closed
+  rotate: false
+  xy: 337, 316
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+inventory_open
+  rotate: false
+  xy: 555, 617
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+red_button
+  rotate: false
+  xy: 1, 13
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+red_button_pressed
+  rotate: false
+  xy: 73, 89
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+red_circle
+  rotate: false
+  xy: 767, 865
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+white_color
+  rotate: false
+  xy: 215, 266
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+yellow_circle
+  rotate: false
+  xy: 299, 319
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1

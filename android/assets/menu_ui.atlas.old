@@ -1,0 +1,40 @@
+menu_ui.png
+size: 254, 171
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+default
+  rotate: false
+  xy: 0, 0
+  size: 254, 77
+  orig: 254, 77
+  offset: 0, 0
+  index: -1
+red_button
+  rotate: false
+  xy: 0, 77
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+red_button_large
+  rotate: false
+  xy: 49, 77
+  size: 190, 49
+  orig: 190, 49
+  offset: 0, 0
+  index: -1
+red_button_large_pressed
+  rotate: false
+  xy: 0, 126
+  size: 190, 45
+  orig: 190, 45
+  offset: 0, 0
+  index: -1
+red_button_pressed
+  rotate: false
+  xy: 190, 126
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1

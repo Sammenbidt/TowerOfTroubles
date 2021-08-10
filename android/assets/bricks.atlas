@@ -1,0 +1,125 @@
+
+bricks.png
+size: 512,512
+format: RGBA8888
+filter: Nearest,Nearest
+repeat: none
+MediumSquareGlass
+  rotate: false
+  xy: 1, 143
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+MediumSquareMetal
+  rotate: false
+  xy: 1, 1
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+MediumSquareStone
+  rotate: false
+  xy: 1, 285
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+MediumSquareWood
+  rotate: false
+  xy: 143, 285
+  size: 140, 140
+  orig: 140, 140
+  offset: 0, 0
+  index: -1
+RectangleGlass
+  rotate: false
+  xy: 283, 427
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+RectangleMetal
+  rotate: false
+  xy: 143, 213
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+RectangleStone
+  rotate: false
+  xy: 143, 69
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+RectangleWood
+  rotate: false
+  xy: 143, 141
+  size: 140, 70
+  orig: 140, 70
+  offset: 0, 0
+  index: -1
+SquareGlass
+  rotate: false
+  xy: 425, 427
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+SquareMetal
+  rotate: false
+  xy: 285, 283
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+SquareStone
+  rotate: false
+  xy: 357, 211
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+SquareWood
+  rotate: false
+  xy: 357, 355
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+TriangleGlass
+  rotate: false
+  xy: 285, 355
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+TriangleMetal
+  rotate: false
+  xy: 285, 139
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+TriangleStone
+  rotate: false
+  xy: 285, 211
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+TriangleWood
+  rotate: false
+  xy: 357, 283
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+groundRectMetalTrans
+  rotate: false
+  xy: 1, 427
+  size: 280, 70
+  orig: 280, 70
+  offset: 0, 0
+  index: -1

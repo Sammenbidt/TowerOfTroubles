@@ -1,0 +1,98 @@
+{
+com.badlogic.gdx.graphics.g2d.BitmapFont: { default-font: { file: default.fnt } },
+com.badlogic.gdx.graphics.Color: {
+	green: { a: 1, b: 0, g: 1, r: 0 },
+	white: { a: 1, b: 1, g: 1, r: 1 },
+	red: { a: 1, b: 0, g: 0, r: 1 },
+	black: { a: 1, b: 0, g: 0, r: 0 },
+	darkGrey: {a: 1, b: 0.56, g: 0.56, r: 0.57},
+	darken: {a: 0.8, b: 0.0, g: 0.0, r: 0.0},
+	lightGrey: { a :1.0, r: 0.776, g: 0.776, b: 0776},
+},
+
+
+com.badlogic.gdx.scenes.scene2d.ui.Button$ButtonStyle: {
+	default: { down:red_button_pressed, up: red_button },
+	large: { down: red_button_pressed, up: red_button },
+	delete: {down: DeletePressed, up: DeleteUnPressed},
+	green: {down: GreenButtonDown, up: GreenButtonUp, disabled: DisabledButtonUp},
+	
+},
+
+com.badlogic.gdx.scenes.scene2d.ui.TextButton$TextButtonStyle: {
+	default: { down: red_button_pressed, up: red_button, font: default-font, fontColor: white, downFontColor: red },
+	large: { down:  red_button_pressed, up: red_button, font: default-font, fontColor: white, downFontColor: red },
+	green: {down: GreenButtonDown, up: GreenButtonUp, font: default-font, fontColor: white, downFontColor: white, disabled: DisabledButtonUp},
+	blue : {down: BlueButtonDown, up: BlueButtonUp, font: default-font, fontColor: white, downFontColor: black},
+
+},
+
+com.badlogic.gdx.scenes.scene2d.ui.Label$LabelStyle: {
+	default: { font: default-font, fontColor: white },
+	SliderData: {font: default-font, fontColor: darkGrey},
+	dialogTitle: {font : default-font, fontColor: white, background: BluePanel},
+	gameOptionsSplitter : {font : default-font, fontColor: white, background : BluePanel},
+	playerTurn : {font : default-font, fontColor : black},
+	dropZone : {font : default-font, fontColor: lightGrey},
+	playerBricksLeft : { font: default-font, fontColor : black},
+	playerTurnLabel : { font : default-font, fontColor : black},
+
+
+},
+
+
+com.badlogic.gdx.scenes.scene2d.ui.Slider$SliderStyle: {
+	default-horizontal: {background: GreySliderHorizontal, knob: GreySliderUp, knobOver: GreySliderUp, knobDown: GreySliderUp, disabledKnob: RedSliderUp }, // TODO: Add another slider to show it's disabled
+	blue-horizontal: {background: GreySliderHorizontal, knob: BlueSliderUp, knobOver: BlueSliderUp, knobDown: GreySliderUp, disabledKnob: RedSliderUp },
+	green-horizontal: {background: GreySliderHorizontal, knob: GreenSliderUp, knobOver: GreenSliderUp, knobDown: GreySliderUp, disabledKnob: RedSliderUp },
+	red-horizontal: {background: GreySliderHorizontal, knob: RedSliderUp, knobOver: RedSliderUp, knobDown: GreySliderUp, disabledKnob: RedSliderUp },
+	yellow-horizontal: {background: GreySliderHorizontal, knob: YellowSliderUp, knobOver: YellowSliderUp, knobDown: GreySliderUp, disabledKnob: RedSliderUp },
+},
+
+com.badlogic.gdx.scenes.scene2d.ui.Window$WindowStyle: {
+	default : {
+		titleFont : default-font,
+		background : YellowPanel,
+	},
+	playerTurn : { titleFont : default-font, background : BluePanel},
+
+	/*
+	beige: {
+			titleFont: default-font,
+			background : panel_beige,
+			titleFontColor : black,
+		},
+
+	*/
+},
+
+com.badlogic.gdx.scenes.scene2d.ui.TextField$TextFieldStyle: {
+	default : {
+		font : default-font,
+		fontColor : black,
+		cursor : cursor_black,
+	},
+	nameInput : {font : default-font, fontColor: black, cursor : cursor_black},
+	/*
+
+	brown: {
+			font : small-font,
+			fontColor : black,
+			background : panel_brown,
+		},
+
+	*/
+
+},
+com.badlogic.gdx.scenes.scene2d.ui.ScrollPane$ScrollPaneStyle: {
+	default : {
+		vScroll : BluePanel,
+		hScrollKnob : GreySliderEnd,
+		background : RedPanel,
+		/*hScroll : GreenPanel,*/
+		vScrollKnob : GreySliderEnd,
+	},
+
+}
+
+}

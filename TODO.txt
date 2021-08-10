@@ -1,0 +1,29 @@
+Start Screen needs updating
+    - A Logo or title
+    - 'Loading message and animation'
+
+New Game Screen
+    - Different color for new player button
+    - Darken screen when new player dialog is open
+        - Check for same name when pressing okay ??
+        - Update dialog to better looking
+
+Game Screen
+    - Image for inventory changed (top left), two different boxes are used currently
+    - Drop area image, change color and thickness of lines.
+    - Add a bar to top ? (maybe with adds above)
+    - Dark screen isn't completely dark, corners are wrong.
+
+    - Add timer for delay.
+    - Animation when a brick goes to inventory.
+    - Make camera follow newly dropped blocks, if it haven't been moved.
+    - Change inventory image ( in bottom), to something resembling a toy box or a card board box
+
+Mixed
+   - Update the assets, one or two Atlas might be enough
+   - Add rest of bricks
+   - Add sounds to gui
+   - Music to gamescreen
+   - Options
+
+

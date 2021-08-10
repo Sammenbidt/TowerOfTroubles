@@ -1,0 +1,306 @@
+
+test.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+9Patch.dropzone
+  rotate: false
+  xy: 2, 128
+  size: 60, 74
+  split: 9, 9, 9, 9
+  orig: 60, 74
+  offset: 0, 0
+  index: -1
+BlueButtonDown
+  rotate: false
+  xy: 2, 44
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+BlueButtonUp
+  rotate: false
+  xy: 2, 2
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+BluePanel
+  rotate: false
+  xy: 484, 703
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+BlueSliderUp
+  rotate: false
+  xy: 556, 775
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+DeletePressed
+  rotate: false
+  xy: 484, 547
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+DeleteUnPressed
+  rotate: false
+  xy: 484, 623
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+DisabledButtonUp
+  rotate: false
+  xy: 197, 306
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+GreenButtonDown
+  rotate: false
+  xy: 484, 829
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+GreenButtonUp
+  rotate: false
+  xy: 484, 661
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+GreenPanel
+  rotate: false
+  xy: 2, 86
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+GreenSliderUp
+  rotate: false
+  xy: 526, 783
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+GreyPanel
+  rotate: false
+  xy: 628, 973
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+GreySliderEnd
+  rotate: false
+  xy: 64, 192
+  size: 8, 10
+  orig: 8, 10
+  offset: 0, 0
+  index: -1
+GreySliderHorizontal
+  rotate: false
+  xy: 484, 1015
+  size: 190, 4
+  orig: 190, 4
+  offset: 0, 0
+  index: -1
+GreySliderUp
+  rotate: false
+  xy: 556, 819
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+RedPanel
+  rotate: false
+  xy: 556, 901
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+RedSliderUp
+  rotate: false
+  xy: 526, 739
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+SquareGlass
+  rotate: false
+  xy: 484, 943
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+SquareMetal
+  rotate: false
+  xy: 258, 355
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+SquareStone
+  rotate: false
+  xy: 330, 355
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+SquareWood
+  rotate: false
+  xy: 484, 871
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+TriangleGlass
+  rotate: false
+  xy: 74, 276
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+TriangleMetal
+  rotate: false
+  xy: 2, 276
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+TriangleStone
+  rotate: false
+  xy: 2, 204
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+TriangleWood
+  rotate: false
+  xy: 556, 943
+  size: 70, 70
+  orig: 70, 70
+  offset: 0, 0
+  index: -1
+YellowPanel
+  rotate: false
+  xy: 484, 787
+  size: 40, 40
+  split: 10, 10, 10, 10
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+YellowSliderUp
+  rotate: false
+  xy: 526, 827
+  size: 28, 42
+  orig: 28, 42
+  offset: 0, 0
+  index: -1
+blue_circle
+  rotate: false
+  xy: 484, 585
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+cursor_black
+  rotate: false
+  xy: 74, 215
+  size: 3, 8
+  orig: 3, 8
+  offset: 0, 0
+  index: -1
+default
+  rotate: false
+  xy: 2, 348
+  size: 254, 77
+  orig: 254, 77
+  offset: 0, 0
+  index: -1
+dropzone
+  rotate: false
+  xy: 2, 427
+  size: 480, 592
+  split: 31, 31, 31, 31
+  pad: 29, 31, 31, 31
+  orig: 480, 592
+  offset: 0, 0
+  index: -1
+green_circle
+  rotate: false
+  xy: 484, 433
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+grey_circle
+  rotate: false
+  xy: 484, 471
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+inventory_closed
+  rotate: false
+  xy: 448, 386
+  size: 32, 39
+  orig: 32, 39
+  offset: 0, 0
+  index: -1
+inventory_open
+  rotate: false
+  xy: 402, 377
+  size: 44, 48
+  orig: 44, 48
+  offset: 0, 0
+  index: -1
+red_button
+  rotate: false
+  xy: 74, 225
+  size: 49, 49
+  orig: 49, 49
+  offset: 0, 0
+  index: -1
+red_button_pressed
+  rotate: false
+  xy: 146, 301
+  size: 49, 45
+  orig: 49, 45
+  offset: 0, 0
+  index: -1
+red_circle
+  rotate: false
+  xy: 484, 509
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
+white_color
+  rotate: false
+  xy: 484, 745
+  size: 40, 40
+  orig: 40, 40
+  offset: 0, 0
+  index: -1
+yellow_circle
+  rotate: false
+  xy: 556, 863
+  size: 36, 36
+  orig: 36, 36
+  offset: 0, 0
+  index: -1
